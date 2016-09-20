@@ -14,7 +14,7 @@ header-img: "img/post-bg-06.jpg"
 <p>As a graduate student myself, I have taken multiple courses on Augmented and Virtual reality. 
 My journey with virtual worlds started last year in Netherlands when I got my hands on Oculus Rift. After some crazy brainstorming sessions where we discussed how awesome would it be to simulate some breathtaking experiences that very few people have actually experienced.</p>
 
-<p>The project started to move in a bit morbid direction when we discussed about creation of a <a href="https://youtu.be/dfwtyCFDRPw">guillotine simulator</a>, however, a desk search revealed that there are still some more weird people like us and that the similar project has already been made.</p>
+<p>The project started to move in a bit morbid direction when we discussed about creation of a <a href="https://youtu.be/dfwtyCFDRPw" target="_blank">guillotine simulator</a>, however, a desk search revealed that there are still some more weird people like us and that the similar project has already been made.</p>
 
 <p>After this discovery our feelings were mixed, however, soon we realized that it was actually a good thing and that nobody actually wants to have a bullet point about creating a execution simulator in their CV. </p>
 
@@ -30,7 +30,7 @@ My journey with virtual worlds started last year in Netherlands when I got my ha
 
 <p>And this is exactly what I did. I created two versions of the same game and asked people to play both of them for couple of minutes in both Augmented and Virtual reality environment.  The game itself was a 2-player multiplayer where the goal is to beat your opponent while navigating the virtual helicopter.  While doing so,  different power-ups or power-downs will spawn in mid-air which if collected will allow you to shoot your opponent with different weapons or even damage your own health. The relationship between weapons and power-ups as well as other information related to the game play is the following:</p>
 
-<a href="#">
+<a href="">
     <img src="{{ site.baseurl }}/img/instructions.png" alt="Game Instructions">
 </a>
 <span class="caption text-muted">Game instructions for the VR game version.</span>
@@ -46,7 +46,7 @@ My journey with virtual worlds started last year in Netherlands when I got my ha
 
 <p>After I gathered data from 26 people, half of the people played VR version first and half of the people played the AR game version first. Results showed up to be very interesting. However, it is important to note that the User Experience is a very complex topic and involves high number of parameters that are almost impossible to cover in a single study.</p>
 
-<p>Nontheless, in most of the cases people will agree that the User Experience is comprised of the following four components:</p>
+<p>Nonetheless, in most of the cases people will agree that the User Experience is comprised of the following four components:</p>
 
 <a >
     <center><img width="70%" height="70%" src="{{ site.baseurl }}/img/UserExperience.jpg" alt="Four parts of User Experience"></center>
@@ -73,8 +73,8 @@ What I discovered is that playing both of the games leaves people with positive 
 <p>Of course, this doesn’t mean that to have a successful game you just need to make it in AR. People who catch Pokemons around also do it because of the anticipated User Experience i.e. some of them just probably want to re-expereince the feelings of their childhood and the app allows them to do just that. It is also very unlikely that the same viral success would happen with an unknown or new cartoon franchise.</p>
 
 
-<p>Whatever is the case, I think the world of Augmented Gaming just started with the Pokemon Go craze and it is very unlikely that is going to stop with it. For anybody interested my latest idea with Augmented Reality is the game for kids where they have their own holographic human and watch how his life unfolds right in front of their eyes, they also develop its skills through numerous mini games and take care of its personal needs. If you are interested check out this link and sign-up for Beta.</p>
+<p>Whatever is the case, I think the world of Augmented Gaming just started with the Pokemon Go craze and it is very unlikely that is going to stop with it. For anybody interested my latest idea with Augmented Reality is the game for kids where they have their own holographic human and watch how his life unfolds right in front of their eyes, they also develop its skills through numerous mini games and take care of its personal needs. If you are interested check out this <a href="www.thegameoflife.eu" target="_blank">link</a> and sign-up for Beta.</p>
 <p>To conclude, this research allowed me to dig deeper into the user experience which with no-doubt is what differentiates good companies from the superb ones in the ever increasing consumer-demanding 21st century. As a matter of a fact, even though I used it in the gaming context, the UX concepts described in this post can be applied to almost every product or service out there.</p>
-<p>The questionnaires I used in this study were: <a href="https://ogg.osu.edu/media/documents/MB%20Stream/PANAS.pdf">Positive and Negative Affect Schedule (PANAS)</a>,<a href="https://pure.tue.nl/ws/files/21666907/Game_Experience_Questionnaire_English.pdf"> Short In-game Experience Questionnare</a> and <a href="http://www.ueq-online.org/">User Experience questionnare</a>.</p>
+<p>The questionnaires I used in this study were: <a href="https://ogg.osu.edu/media/documents/MB%20Stream/PANAS.pdf" target="_blank">Positive and Negative Affect Schedule (PANAS)</a>,<a href="https://pure.tue.nl/ws/files/21666907/Game_Experience_Questionnaire_English.pdf" target="_blank"> Short In-game Experience Questionnare</a> and <a href="http://www.ueq-online.org/" target="_blank">User Experience questionnaire</a>.</p>
 
 
