@@ -20,15 +20,17 @@ My journey with virtual worlds started last year in the Netherlands when I got m
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G1cmP36g2H0" frameborder="0" allowfullscreen></iframe>
 
-<p>In the end we created a two person multiplayer game where one player is in the cockpit of a russian plane and after a bottle of vodka and a couple of hours of sleep he wakes up in front of some siberian airport and has to land a plane. His task is to land a plane while executing various tasks while communicating with the second player over headphones who actually plays a role of a air traffic controller. </p>
+<p>In the end we created a two person multiplayer game where one player is in the cockpit of a russian plane and after a bottle of vodka followed by a couple of hours of sleep he wakes up in front of the Siberian airport and has to land a plane. His main goal is to land a plane while executing various tasks while receiving instructions from the second player over headphones who actually plays a role of an air traffic controller. </p>
 
 
-<p>To successfully land a plane he needs to first communicate the model of the aircraft to the control tower player (model number was behind him and in Cyrillic xD). Next, with the help of leap motion, the pilot player uses its real hands to interact with virtual objects in order to do things such us turning off the autopilot and adjusting different knobs on the cockpit dashboard. We received the highest grade for our project and showcased it at the university’s Demo-Day. Even though the tasks sound relatively easy, most of the people didn't manage to land it and instead, ended up crashing in the mountain or in a cockpit fire. If you did land successfully you were awarded with a pilot certificate and a shot of vodka at our presentation table.</p>
+<p>To successfully land a plane he needs to first communicate the model of the aircraft to the control tower player (model number was written behind him in the cockpit but in Cyrillic alphabet xD). Next, with the help of the <a href="https://www.leapmotion.com/" target="_blank">leap motion</a>, the pilot player uses its real hands to interact with virtual objects in order to do things such us turning off the autopilot and adjusting different knobs on the cockpit's dashboard. </p>
+
+<p>We received the highest grade for our project and showcased it at the university’s Demo-Day. Even though the described tasks sound relatively easy, most of the people actually didn't manage to land the plane but instead, ended up crashing or in a big cockpit fire. However, in case the aircraft was landed successfully the players were awarded with a pilot certificate and a shot of vodka at our presentation table.</p>
 
 
-<p>Albeit, its time to get back to the actual topic of this post. Later that year, when I started experimenting with Augmented Reality I was wondering how different actually people perceive it in regards to the Virtual environments. Although my hunch was that people might enjoy augmented worlds even more than completely virtual ones, I had to do something for my Master thesis and decided to answer this question and back it up with some scientific evidence.</p>
+<p>Albeit, its time to get back to the actual topic of this post. Later that year, when I started playing with Augmented Reality I was wondering how different actually people perceive it in regards to the Virtual environments. Although my hunch was that people might enjoy augmented worlds even more than completely virtual ones, I had to do something for my Master thesis and decided to answer this question and back it up with some scientific evidence.</p>
 
-<p>And this is exactly what I did. I created two versions of the same game and asked people to play both of them for couple of minutes in both Augmented and Virtual reality environment.  The game itself was a 2-player multiplayer where the goal is to beat your opponent while navigating the virtual helicopter.  While doing so,  different power-ups or power-downs will spawn in mid-air which if collected will allow you to shoot your opponent with different weapons or even damage your own health. The relationship between weapons and power-ups as well as other information related to the game play is the following:</p>
+<p>Half a year later into the future, I created two versions of the same game and asked people to play it in both Augmented and Virtual reality environment.  The game that I developed was imagined as a 2-player multiplayer where the goal is to beat your opponent while navigating the virtual helicopter.  While doing so,  different power-ups or power-downs will spawn in mid-air which if collected will allow you to shoot your opponent with different weapons or even damage your own health. The relationship between weapons and power-ups as well as other information related to the game play is the following:</p>
 
 <a href="">
     <img src="{{ site.baseurl }}/img/instructions.png" alt="Game Instructions">
@@ -44,9 +46,9 @@ My journey with virtual worlds started last year in the Netherlands when I got m
 </a>
 <span class="caption text-muted">Augmented Reality version of my Helicopters Game (Note that the game is multiplayer and the players are sitting opposite of each other).</span>
 
-<p>After I gathered data from 26 people, half of the people played VR version first and half of the people played the AR game version first. Results showed up to be very interesting. However, it is important to note that the User Experience is a very complex topic and involves high number of parameters that are almost impossible to cover in a single study.</p>
+<p>After I gathered data from 26 people, half of the people played the VR version first and half of the people played the AR game version first and then they switched. Results showed up to be very interesting. However, it is important to note that the User Experience is a very complex topic and involves high number of parameters that are almost impossible to cover in a single study.</p>
 
-<p>Nonetheless, in most of the cases people will agree that the User Experience is comprised of the following four components:</p>
+<p>To be exact, in most of the cases researchers will agree that the User Experience is comprised of the following four components:</p>
 
 <a >
     <center><img width="70%" height="70%" src="{{ site.baseurl }}/img/UserExperience.jpg" alt="Four parts of User Experience"></center>
