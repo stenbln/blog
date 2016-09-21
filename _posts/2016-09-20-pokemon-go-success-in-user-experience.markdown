@@ -12,7 +12,7 @@ header-img: "img/post-bg-06.jpg"
 <p>Even though I’ve known about Pokemon GO before its release I could have never imagined the craze that it will cause. As I worked with Augmented Reality (AR), I had the feeling that AR is going to hit hard one day and that day is going to happen soon. And this is exactly what happened just a few weeks back and unless you have been tied somewhere indoors without the internet access there is a little chance that you missed this whole poke-madness.</p>
 
 <p>As a graduate student myself, I have taken multiple courses on Augmented and Virtual reality. 
-My journey with virtual worlds started last year in Netherlands when I got my hands on Oculus Rift. After some crazy brainstorming sessions where we discussed how awesome would it be to simulate some breathtaking experiences that very few people have actually experienced.</p>
+My journey with virtual worlds started last year in the Netherlands when I got my hands on Oculus Rift. After some crazy brainstorming sessions where we discussed how awesome would it be to simulate some breathtaking experiences that very few people have actually experienced.</p>
 
 <p>The project started to move in a bit morbid direction when we discussed about creation of a <a href="https://youtu.be/dfwtyCFDRPw" target="_blank">guillotine simulator</a>, however, a desk search revealed that there are still some more weird people like us and that the similar project has already been made.</p>
 
@@ -60,8 +60,8 @@ My journey with virtual worlds started last year in Netherlands when I got my ha
 <li><b>Cumulative UX</b> - It forms after longer time span of usage and after multiple episodic experiences. In a same way how momentary experiences influence episodic evaluation, episodic experiences influence overall cumulative experience. In a way this part of the user experience covers all other three parts but compared to them it is much more difficult to measure as it requires the most extensive research methods.</li>
 </ul>
 
-<p>As I was the only researchers in the study and the study itself had a limited time span I focused only on momentary UX and a cumulative UX which from my personal experience were the most insightful and most revealing. Momentary UX explains how many positive emotions are evoked during the interaction with the system and Cumulative UX in short explains what do the user feel about the system when it is considered as a whole.
-What I discovered is that playing both of the games leaves people with positive feelings afterwards. However, these levels of positive emotions were so much surprisingly expressed in the AR game as can be seen below.</p>
+<p>As I was the only researchers in the study and the study itself had a limited time span I focused only on the momentary UX which from my personal experience is the most insightful, most revealing and in the end the easiest to test. Momentary UX explains how many positive emotions are evoked during the interaction with the system while its closest component Cumulative UX describes how does the user feel about the system when it is considered as a whole.
+What I discovered is that playing both of the games leaves people with significantly positive feelings afterwards or in other words makes them happier. However, the biggest finding of the study is that the levels of positive emotions afterwards were so much more expressed in the AR version than they were in the VR. This can be clearly seen on the following illustration:</p>
 
 <a >
     <center><img src="{{ site.baseurl }}/img/FinalGraph.png" alt="Difference of Momentary UX between VR and AR game versions"></center>
