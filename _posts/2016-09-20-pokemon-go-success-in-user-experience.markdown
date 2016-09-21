@@ -18,7 +18,7 @@ My journey with virtual worlds started last year in the Netherlands when I got m
 
 <p>After this discovery our feelings were mixed, however, soon we realized that it was actually a good thing and that nobody actually wants to have a bullet point about creating a execution simulator in their CV. </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rbd-KUrzZro" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G1cmP36g2H0" frameborder="0" allowfullscreen></iframe>
 
 <p>In the end we created a two person multiplayer game where one player is in the cockpit of a russian plane and after a bottle of vodka and a couple of hours of sleep he wakes up in front of some siberian airport and has to land a plane. His task is to land a plane while executing various tasks while communicating with the second player over headphones who actually plays a role of a air traffic controller. </p>
 
