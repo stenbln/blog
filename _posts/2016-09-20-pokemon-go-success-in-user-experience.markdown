@@ -9,7 +9,7 @@ header-img: "img/post-bg-06.jpg"
 
 <blockquote>TL;DR; I did a scientific research that proves that Augmented Reality games have superior user experience when compared to the Virtual Realty games. Therefore, It can be argued that part of the success of Pokemon Go is backed also by the highly positive experiences that usage of the augmented reality game evokes.</blockquote>
 
-<p>Even though I’ve known about Pokemon GO before its release I could have never imagined the craze that it will cause. As I worked with Augmented Reality (AR), I had the feeling that AR is going to hit hard one day and that day is going to happen soon. And this is exactly what happened just a few weeks back and unless you have been tied somewhere indoors without the internet there is a little chance that you missed this whole poke-madness.</p>
+<p>Even though I’ve known about Pokemon GO before its release I could have never imagined the craze that it will cause. As I worked with Augmented Reality (AR), I had the feeling that AR is going to hit hard one day and that day is going to happen soon. And this is exactly what happened just a few weeks back and unless you have been tied somewhere indoors without the internet access there is a little chance that you missed this whole poke-madness.</p>
 
 <p>As a graduate student myself, I have taken multiple courses on Augmented and Virtual reality. 
 My journey with virtual worlds started last year in Netherlands when I got my hands on Oculus Rift. After some crazy brainstorming sessions where we discussed how awesome would it be to simulate some breathtaking experiences that very few people have actually experienced.</p>
