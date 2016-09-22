@@ -53,7 +53,7 @@ My journey with virtual worlds started last year in the Netherlands when I got m
 <a >
     <center><img width="70%" height="70%" src="{{ site.baseurl }}/img/UserExperience.jpg" alt="Four parts of User Experience"></center>
 </a>
-<span class="caption text-muted">Four parts of User Experience.</span>
+<span class="caption text-muted">Four parts of the User Experience.</span>
 
 <ul>
 <li><b>Anticipated UX</b> - Even before any interaction, users can imagine how the system and the interaction with it could look like. Thus, it is a vital part of the user experience as it can often motivate users to take some concrete steps in order to get in contact with the system which in business terms would mean to buy the product, however, it is very difficult to influence it as it is dependent from numerous factors which are in its nature highly subjective.</li>
