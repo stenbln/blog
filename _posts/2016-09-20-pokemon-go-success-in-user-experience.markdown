@@ -14,7 +14,7 @@ header-img: "img/post-bg-06.jpg"
 <p>As a graduate student myself, I have taken multiple courses on Augmented and Virtual reality. 
 My journey with virtual worlds started last year in the Netherlands when I got my hands on the Oculus Rift. After some crazy brainstorming sessions where we discussed that our goal would be to simulate some breathtaking experience that very few people had the chance to actually be encounter with, the project started to move in a bit morbid direction when we argued how awesome and breathtaking would be to create the <a href="https://youtu.be/dfwtyCFDRPw" target="_blank">guillotine simulator</a>, however, a desk search revealed that there are still some more weird people on this planet and that the same project has already been made.</p>
 
-<p>After this discovery our feelings were mixed, however, soon we realized that it was actually a good thing and that nobody actually wants to have a bullet point about creating a execution simulator in their CV. </p>
+<p>After this discovery our feelings were mixed. Nevertheless, we soon realized that it was actually a good thing and that nobody actually wants to have a bullet point about creating a execution simulator in their CV. </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G1cmP36g2H0" frameborder="0" allowfullscreen></iframe>
 
