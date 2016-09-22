@@ -12,23 +12,23 @@ header-img: "img/post-bg-06.jpg"
 <p>Even though I’ve known about Pokemon Go before its release I could have never imagined the craze that it will cause. As I worked with Augmented Reality (AR), I had the feeling that AR is going to hit hard one day and that day is going to happen soon. And this is exactly what happened just a few weeks back and unless you have been stuck somewhere indoors without television or internet access there is a little chance that you missed this whole poke-madness.</p>
 
 <p>As a graduate student myself, I have taken multiple courses on Augmented and Virtual reality. 
-My journey with virtual worlds started last year in the Netherlands when I got my hands on the Oculus Rift. After some crazy brainstorming sessions where we discussed that our goal would be to simulate some breathtaking experience that very few people actually had the chance to be encountered with, the project started to move in a bit morbid direction when we argued how awesome and breathtaking would be to create the <a href="https://youtu.be/dfwtyCFDRPw" target="_blank">guillotine simulator</a>, however, a desk search revealed that there are still some more weird people on this planet and that the same project has already been made.</p>
+My journey with virtual worlds started last year in the Netherlands when I got my hands on the Oculus Rift. After some crazy brainstorming sessions where we discussed that our goal would be to simulate some breathtaking experience that very few people actually had the chance to be encountered with, the project started to move in a bit morbid direction when we argued how awesome and breathtaking would be to create a <a href="https://youtu.be/dfwtyCFDRPw" target="_blank">guillotine simulator</a>, however, a desk search revealed that there are still some more weird people on this planet and that the same project has already been made.</p>
 
 <p>After this discovery our feelings were mixed. Nevertheless, we soon realized that it was actually a good thing and that nobody actually wants to have a bullet point about creating a execution simulator in their CV. </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G1cmP36g2H0" frameborder="0" allowfullscreen></iframe>
 
-<p>In the end we created a two person multiplayer game where one player is in the cockpit of a russian plane and after a bottle of vodka followed by a couple of hours of sleep he wakes up in front of the Siberian airport and has to land a plane. His main goal is to land the aircraft by executing various tasks while receiving the instructions from the second player over headphones who actually plays a role of the air traffic controller. </p>
+<p>In the end we created a two person multiplayer game where one player sits in the cockpit of a russian plane and after a bottle of vodka followed by a couple of hours of sleep he wakes up in front of the Siberian airport and has to land a plane. His main goal is to land the aircraft by executing various tasks while receiving the instructions from the second player over headphones who actually plays a role of the air traffic controller. </p>
 
 
-<p>To successfully land a plane he needs to first communicate the model of the aircraft to the control tower player (model number was written behind him on the cockpit's wall in Cyrillic alphabet xD). Next, with the help of the <a href="https://www.leapmotion.com/" target="_blank">leap motion</a>, the pilot player uses its real hands to interact with the virtual objects. For example some of the tasks were doing things such us turning off the autopilot and adjusting different knobs on the cockpit's dashboard. </p>
+<p>To successfully land a plane he first needs to communicate the model of the aircraft to the control tower player (model number was written behind him on the cockpit's wall in Cyrillic alphabet xD). Next, with the help of the <a href="https://www.leapmotion.com/" target="_blank">leap motion</a>, the pilot player uses its real hands to interact with the virtual objects. For example some of the tasks were doing things such us turning off the autopilot and adjusting different knobs on the cockpit's dashboard. </p>
 
 <p>We received the highest grade for our project and showcased it at the university’s Demo-Day. Even though the described tasks sound relatively easy, most of the people actually didn't manage to land the plane but instead, ended up crashing or in a big cockpit fire. However, in case the aircraft was landed successfully the players were awarded with a pilot certificate and a shot of vodka at our presentation table.</p>
 
 
 <p>Albeit, its time to get back to the actual topic of this post. Later that year, when I started playing with Augmented Reality I was wondering how different actually people perceive it in regards to the Virtual environments. Although my hunch was that people might enjoy augmented worlds even more than completely virtual ones, I had to do something for my Master thesis and decided to tackle this question and back it up with some scientific evidences.</p>
 
-<p>Half a year later into the future, I created two game versions and asked people to play them both in Augmented and Virtual reality environment.  The game that I now developed was imagined as a 2-person multiplayer where the goal is to beat your opponent while navigating the virtual helicopter and while doing so,  different power-ups or power-downs will spawn in mid-air which if collected will allow you to shoot your opponent with different weapons or even damage your own health. The relationship between weapons and power-ups as well as other information related to the game play is the following:</p>
+<p>Half a year later into the future, I created two game versions and asked people to play them both in Augmented and Virtual reality environment.  The game that I now developed was imagined as a 2-person multiplayer where the goal is to beat your opponent by navigating and shooting from the virtual helicopter and while doing so,  different power-ups or power-downs will spawn in mid-air which if collected will allow you to blast your opponent with different weapons or even damage your own health. The relationship between weapons and power-ups as well as other information related to the game play is the following:</p>
 
 <a href="">
     <img src="{{ site.baseurl }}/img/instructions.png" alt="Game Instructions">
@@ -61,7 +61,7 @@ My journey with virtual worlds started last year in the Netherlands when I got m
 </ul>
 
 <p>As I was the only researcher in this experiment and the study itself had a limited time span I focused only on the momentary UX which from my personal experience is the most insightful, most revealing and of course the easiest to quantitatively test. Momentary UX explains how many positive emotions (or negative) are evoked during the interaction with the system.
-What I discovered is that playing both of these games leaves people with significantly positive feelings afterwards or in other words makes them significantly happier than they were before playing the game. However, the biggest finding of this study is that the levels of positive evoked emotions were so much more expressed in the AR version than they were in the VR. This can be clearly seen on the following illustration:</p>
+What I discovered is that playing both of these games leaves people with significantly positive feelings afterwards or in other words makes them significantly happier than they were before playing the game. However, the biggest finding of this study is that the levels of positive emotions were so much more expressed in the AR version than they were in the VR. This can be clearly seen on the following illustration:</p>
 
 <a >
     <center><img src="{{ site.baseurl }}/img/FinalGraph.png" alt="Difference of Momentary UX between VR and AR game versions"></center>
@@ -69,7 +69,7 @@ What I discovered is that playing both of these games leaves people with signifi
 <span class="caption text-muted">Difference of Momentary UX between VR and AR game versions.</span>
 
 <p>Therefore, even though the game mechanics of Pokemon Go and my own developed game are inherently different it can still be argued that the success of Pokemon Go might lie in its superior user experience which Augmented Reality environment elicits.
-Even though I agree that Pokemon Go has a great UI composition, note that I was not testing the UI (User Interface), but instead the experiments were being done in order to determine the UX (User Experience) of AR and VR environments. UX and UI are in a way related to each other but still they represent two different concepts.</p>
+Even though I agree that Pokemon Go has a great UI composition, note that I was not testing the UI (User Interface), but instead the experiments were being done in order to determine the momentary UX (User Experience) of AR and VR environments. UX and UI are in a way related to each other but still they represent two different concepts.</p>
 
 <p>Of course, this doesn’t mean that to have a successful game you just need to make it in AR (As a matter of a fact, Pokemon Go was just partially AR).
 
