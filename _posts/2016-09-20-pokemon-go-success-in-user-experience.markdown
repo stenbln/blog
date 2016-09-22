@@ -12,9 +12,7 @@ header-img: "img/post-bg-06.jpg"
 <p>Even though I’ve known about Pokemon Go before its release I could have never imagined the craze that it will cause. As I worked with Augmented Reality (AR), I had the feeling that AR is going to hit hard one day and that day is going to happen soon. And this is exactly what happened just a few weeks back and unless you have been tied somewhere indoors without the internet access there is a little chance that you missed this whole poke-madness.</p>
 
 <p>As a graduate student myself, I have taken multiple courses on Augmented and Virtual reality. 
-My journey with virtual worlds started last year in the Netherlands when I got my hands on the Oculus Rift. After some crazy brainstorming sessions where we discussed how awesome would it be to simulate some breathtaking experiences that very few people have actually experienced.</p>
-
-<p>The project started to move in a bit morbid direction when we discussed about creation of a <a href="https://youtu.be/dfwtyCFDRPw" target="_blank">guillotine simulator</a>, however, a desk search revealed that there are still some more weird people like us and that the similar project has already been made.</p>
+My journey with virtual worlds started last year in the Netherlands when I got my hands on the Oculus Rift. After some crazy brainstorming sessions where we discussed how awesome would it be to simulate some breathtaking experiences that very few people have actually experienced, the project started to move in a bit morbid direction when we discussed how awesome would be to create the <a href="https://youtu.be/dfwtyCFDRPw" target="_blank">guillotine simulator</a>, however, a desk search revealed that there are still some more weird people on this planet and that the same project has already been made.</p>
 
 <p>After this discovery our feelings were mixed, however, soon we realized that it was actually a good thing and that nobody actually wants to have a bullet point about creating a execution simulator in their CV. </p>
 
