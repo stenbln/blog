@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Does success of the Pokemon GO lies in the User Experience?"
+title:      "Does success of the Pokemon Go lies in the User Experience?"
 subtitle:   ""
 date:       2016-09-20 16:00:00
 author:     "Josip Vukoja"
@@ -9,7 +9,7 @@ header-img: "img/post-bg-06.jpg"
 
 <blockquote>TL;DR; I did a scientific research that proves that Augmented Reality games have superior user experience when compared to the Virtual Realty games. Therefore, It can be argued that part of the success of Pokemon Go is backed also by the highly positive experiences that usage of the augmented reality game evokes.</blockquote>
 
-<p>Even though I’ve known about Pokemon GO before its release I could have never imagined the craze that it will cause. As I worked with Augmented Reality (AR), I had the feeling that AR is going to hit hard one day and that day is going to happen soon. And this is exactly what happened just a few weeks back and unless you have been tied somewhere indoors without the internet access there is a little chance that you missed this whole poke-madness.</p>
+<p>Even though I’ve known about Pokemon Go before its release I could have never imagined the craze that it will cause. As I worked with Augmented Reality (AR), I had the feeling that AR is going to hit hard one day and that day is going to happen soon. And this is exactly what happened just a few weeks back and unless you have been tied somewhere indoors without the internet access there is a little chance that you missed this whole poke-madness.</p>
 
 <p>As a graduate student myself, I have taken multiple courses on Augmented and Virtual reality. 
 My journey with virtual worlds started last year in the Netherlands when I got my hands on the Oculus Rift. After some crazy brainstorming sessions where we discussed how awesome would it be to simulate some breathtaking experiences that very few people have actually experienced.</p>
@@ -70,10 +70,10 @@ What I discovered is that playing both of these games leaves people with signifi
 </a>
 <span class="caption text-muted">Difference of Momentary UX between VR and AR game versions.</span>
 
-<p>Therefore, even though the game mechanics of Pokemon GO and my own developed game are inherently different it can still be argued that the success of Pokemon Go might lie in its superior user experience which Augmented Reality environment elicits.
-Even though I agree that Pokemon GO has a great UI composition, note that I was not testing the UI (User Interface), but instead the tests were done in order to determine the UX (User Experience) which are two related but still different concepts.</p>
+<p>Therefore, even though the game mechanics of Pokemon Go and my own developed game are inherently different it can still be argued that the success of Pokemon Go might lie in its superior user experience which Augmented Reality environment elicits.
+Even though I agree that Pokemon Go has a great UI composition, note that I was not testing the UI (User Interface), but instead the tests were done in order to determine the UX (User Experience) which are two related but still different concepts.</p>
 
-<p>Of course, this doesn’t mean that to have a successful game you just need to make it in AR (As a matter of a fact, Pokemon GO was just partially AR).
+<p>Of course, this doesn’t mean that to have a successful game you just need to make it in AR (As a matter of a fact, Pokemon Go was just partially AR).
 
  People who catch Pokemons around also do it because of the anticipated and cumulative User Experience i.e. some of them just probably want a way to kind of re-expereince the feelings of their childhood by collecting all pokemons and the app allows them to do just that. It is also very unlikely that the same global viral success would happen with an unknown or new cartoon franchise.</p>
 
