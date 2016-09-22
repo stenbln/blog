@@ -46,7 +46,7 @@ My journey with virtual worlds started last year in the Netherlands when I got m
 </a>
 <span class="caption text-muted">Augmented Reality version of my Helicopters Game (Note that the game is multiplayer and the players are sitting opposite of each other).</span>
 
-<p>After I gathered data from 26 people, half of which played the VR version first and the other half played the AR game version first. This is being done in order to counterbalance any undesired effects which could arise from switching from one game environment to the other. Results showed up to be very interesting. However, before diving into them it is important to note that the User Experience is a very complex topic which involves high number of parameters that are almost impossible to cover in a single study.</p>
+<p>After I gathered data from 26 people, half of which played the VR version first and the other half played the AR game version first. This was being done in order to counterbalance any undesired effects which could arise from switching from one game environment to the other. Results showed up to be very interesting. However, before diving into them it is important to note that the User Experience is a very complex topic which involves high number of parameters that are almost impossible to cover in a single study.</p>
 
 <p>To be exact, most of the researchers will agree that the User Experience is comprised of the following four components:</p>
 
