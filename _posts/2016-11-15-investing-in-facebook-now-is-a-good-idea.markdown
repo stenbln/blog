@@ -28,8 +28,8 @@ Interestingly, Facebook also now appears strongly determined to stop Adblocker, 
 
 
 So, why the heck Facebook might be doing this?
-One of the reasons that comes to my mind is the share buyback. Even though it will leave them a bit short on the cash depending on the amount of stock they could buy they could provide their investors with a significant returns. Another reason for a buyback might be creation of additional stock options for current and future employees (an action which would avoid the potential dilution compared to the case if they would issue additional shares). 
+One of the reasons that comes to my mind is the share buyback. Even though it will leave them a bit short on the cash depending on the amount of stock they could buy this is one of the ways to provide their investors with a significant returns. Another reason for a buyback might be the creation of additional stock options for current and future employees (an action which would avoid the potential dilution compared to the case if they issue additional shares). 
 
-Another reason might be that market (at the moment) behaves irrationally and only considers short-term gains. However, if you extrapolate the current direction of the web you will see that it definitely gravitates around video and VR experiences. Why this didn't happen before is due to the fact that the required infrastructure and the technology were not in place. Consider the fact that the Facebook in its infancy didn't even allow users to upload photos.
+Another reason might be that market (at the moment) behaves irrationally and only considers short-term gains. However, if you extrapolate the current direction of the web you will see that it definitely gravitates around video and VR experiences. Why this didn't happen before is due to the fact that the required infrastructure and the technology were not in place. Just consider the fact that the Facebook in its infancy didn't even allow users to upload photos.
 
 
