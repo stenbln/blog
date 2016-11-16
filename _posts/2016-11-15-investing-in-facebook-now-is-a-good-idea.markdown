@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "Why investing now in Facebook's stock is a great idea?"
+title:      "Why now investing in the Facebook's stock is a great idea?"
 subtitle:   ""
 date:       2016-11-15 17:00:00
 author:     "Josip Vukoja"
 header-img: "img/post-bg-07.jpg"
 ---
 
-<b>Why investing now in the Facebook's stock is a great idea?</b>
+<b>Why now investing in the Facebook's stock is a great idea?</b>
 
 
 Facebook is still on its way to profit once again in a last quarter this year.  Its an extraordinary growing streak which continues from the last quarter when it reported a staggering $7bn in revenue, a number which exceeded even the most optimistic financial predictions.
