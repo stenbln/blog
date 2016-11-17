@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Why now investing in the Facebook's stock is a great idea?"
+title:      "Why investing in the Facebook's stock is a great idea now?"
 subtitle:   ""
 date:       2016-11-15 17:00:00
 author:     "Josip Vukoja"
